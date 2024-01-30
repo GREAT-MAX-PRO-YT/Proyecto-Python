@@ -1,0 +1,10 @@
+def menu():
+     print("bienvenido")
+print("que operacion quire hacer:")
+print("Presione la tecla 1 para Suma")
+print("Presione la tecla 2 para Restar")
+print("Presione la tecla 3 para Raiz Cuadrada")
+print("Presione la tecla 4 para Multiplicar")
+print("Presione la tecla 5 para Dividir")
+print("Presione cualquier otra tecla para salir ")
+print("Presione m para salir al menu")
